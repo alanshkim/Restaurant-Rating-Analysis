@@ -1,4 +1,4 @@
-Multiple analysis using clustering.
+Multiple analysis on restaurants in Bengalore and consumer behavior using clustering, logistic regression, and support vector machine.
 
 Dataset is way too big to be uploaded onto Github. 
 Find dataset at: https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
